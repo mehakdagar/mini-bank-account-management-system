@@ -52,4 +52,11 @@ Mini-Bank-Account-System/
 - Choose option 6 to view full account details, and option 7 to see every account listed together.
 
 ## Screenshots
-Add screenshots of the program running here once you have tested it (e.g. successful_output.png, search_account.png, account_details.png). 
+![Create account](create_account.png) 
+![Search account](search_account.png)
+![Deposit](deposit.png)
+![Withdraw](withdraw.png)
+![Check balance](check_balance.png)
+![Display account detail](display_detail.png)
+![Display all account](display_all.png)
+![Exit](exit.png)
